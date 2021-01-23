@@ -10,4 +10,5 @@ _Based on [thecodingmachine/workadventure-map-starter-kit](https://github.com/th
 * Download and install [Tiled](https://www.mapeditor.org/)
 * Open `/map.json` in Tiled
 * Edit the map ([documentation](https://workadventu.re/create-map.html))
-* Commit the changes and open the pull request
+* Commit the changes and open a pull request
+* Merge to `master` to automatically deploy the assets on `johansatge.github.io/workadventure-player-sophia-love`
